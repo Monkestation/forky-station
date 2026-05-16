@@ -74,7 +74,7 @@
   source: "https://github.com/ParadiseSS13/Paradise"
 
 - files: ["deprecated.png"]
-  license: "CC0"
+  license: "CC0-1.0"
   copyright: "created by @skarletto on github"
   source: "https://github.com/Monkestation/forky-station"
 
